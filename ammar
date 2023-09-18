@@ -3,3 +3,9 @@ git add file.txt
 git commit -m "Added file.txt"
 
 echo "Second commit" >> file.txt
+echo "ammar" > .gitignore
+git branch branch1
+git branch branch2
+git branch branch3
+git tag v1.0 -m "Version 1.0"
+git tag v2.0 -m "Version 2.0"
